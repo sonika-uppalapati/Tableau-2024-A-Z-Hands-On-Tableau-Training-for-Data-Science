@@ -58,5 +58,6 @@
     
     <h2>🌟 Start Your Tableau Journey Today!</h2>
     
-    <p>Whether you're analyzing customer behavior, forecasting sales trends, or optimizing production processes, Tableau 2024 A-Z equips you with the skills to visualize data effectively and drive impactful decisions.</p>
-    <a href="https://www.udemy.com/course/tableau10/?kw=Tableau+2024+A-Z%3A+Hands-On+Tableau+Training+for+Data+Science&src=sac&couponCode=HT815INMT81324" target="_blank">Enroll in the Course</a>
+Whether you're analyzing customer behavior, forecasting sales trends, or optimizing production processes, Tableau 2024 A-Z equips you with the skills to visualize data effectively and drive impactful decisions.
+
+[Enroll in the Course](https://www.udemy.com/course/tableau10/?kw=Tableau+2024+A-Z%3A+Hands-On+Tableau+Training+for+Data+Science&src=sac&couponCode=HT815INMT81324" target="_blank)
