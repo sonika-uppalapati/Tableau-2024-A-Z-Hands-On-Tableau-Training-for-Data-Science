@@ -49,15 +49,15 @@
         <li><strong>Updates:</strong> Content regularly updated to match the latest Tableau versions</li>
     </ul>
     
-    <h3>🎓 Why Take This Course?</h3>
-    <ul>
+  🎓 Why Take This Course?
+   
         <li>Learn independently with modular sections</li>
         <li>Hands-on exercises for immediate application</li>
         <li>Stay ahead with continuous skill refinement</li>
-    </ul>
+ 
     
-    <h2>🌟 Start Your Tableau Journey Today!</h2>
+ 🌟 Start Your Tableau Journey Today!
     
 Whether you're analyzing customer behavior, forecasting sales trends, or optimizing production processes, Tableau 2024 A-Z equips you with the skills to visualize data effectively and drive impactful decisions.
 
-[Enroll in the Course](https://www.udemy.com/course/tableau10/?kw=Tableau+2024+A-Z%3A+Hands-On+Tableau+Training+for+Data+Science&src=sac&couponCode=HT815INMT81324" target="_blank)
+[Enroll in the Course](https://www.udemy.com/course/tableau10/?kw=Tableau+2024+A-Z%3A+Hands-On+Tableau+Training+for+Data+Science&src=sac&couponCode=HT815INMT81324)
