@@ -51,9 +51,9 @@
     
   🎓 Why Take This Course?
    
-        <li>Learn independently with modular sections</li>
-        <li>Hands-on exercises for immediate application</li>
-        <li>Stay ahead with continuous skill refinement</li>
+        * Learn independently with modular sections
+        * Hands-on exercises for immediate application
+        * Stay ahead with continuous skill refinement
  
     
  🌟 Start Your Tableau Journey Today!
